@@ -1,0 +1,6 @@
+Project Summary: Behavior-Based Music Recommendation Strategy
+
+A song recommendation strategy was developed based on user segmentation according to their in-app behavior. 
+By analyzing usage patterns such as repetition, diversity, and artist loyalty, distinct customer clusters were identified with clearly defined characteristics. 
+For each group, a tailored strategy was designed, training specific algorithms that adapt to the preferences and habits of each profile. 
+This approach optimizes the relevance of recommendations and enhances the overall user experience.
